@@ -1,0 +1,5 @@
+package com.example.lesson_01_app_skeleton
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
