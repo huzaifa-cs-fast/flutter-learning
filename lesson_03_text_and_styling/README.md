@@ -98,14 +98,10 @@ import '../challenges/challenge.dart';
 
 ## 📸 Screenshots
 
-### Learning Screen
-
-![Lesson 03 Learning Screen](screenshots/lesson_03_learning.png)
-
-
-### Challenge Solution
-
-![Lesson 03 Challenge](screenshots/lesson_03_challenge.png)
+<div>
+  <img src="screenshots/lesson_03_learning.png" width="300">
+  <img src="screenshots/lesson_03_challenge.png" width="300">
+</div>
 
 ---
 
@@ -126,8 +122,8 @@ lib/
 
 ## 🔗 Previous Lesson
 
-[Lesson 01 – Basic App Skeleton](../lesson_01_app_skeleton)
-[Lesson 02 – Basic Flutter Widgets](../lesson_02_layout_widgets)
+- [Lesson 01 – Basic App Skeleton](../lesson_01_app_skeleton)
+- [Lesson 02 – Basic Flutter Widgets](../lesson_02_layout_widgets)
 
 ---
 
